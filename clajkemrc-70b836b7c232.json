@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "clajkemrc",
+  "private_key_id": "70b836b7c232305f93195dec0a7e2720362e582d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCoUYcrV8phAuFw\nAss+DCpWqu8E16luZb1dy7heTRxQMT9LvX66KkQcCcsljS36lmmEbOxy7v88OAhV\nczOjTwZYrQQcWaeLxzg75mcniPRBUB8Y1/26rX9OvXJX4Byb4Ilxgss4Pt0A3T+0\nal2VDVDSnqJHPkCWt6UruombFu5NQzwRioSVR/TxkG/h6SxarASi9apgfCvNHuAZ\nqfhkPb4GGOAHKcbPa7RcCNXPvxpU1K8PR1KDvG7mxwgj+BZCNVVus7D6CKui9vmK\neNXDh6t5w7R+kPQTL9Jc+Xf+gECbrdesl5r4+6Eg260ZEQPtnnz8mdcdcvfHG+pT\nBqrgJLtHAgMBAAECggEABuVYMVlmbDUPAWTL6N3cujJEmqEvStuWN4qKIirslwh9\nfF/mGkBzC+cG0KIJGTQiXI+N3GOYR2JQTRfsLKunKejkuzidGafu0N1uqnr87tQW\nghEPTx+ekJ5IWftPkL9RQjpGkyZYLZni60RUUy/5eLeRFHQjd0lM1g7NZnI5Dyc5\n8gvOT2ZfgNkSznGqr2FCvMeDt+tBPcu6ds7wselKwP+1SVul/RMwDcPUuEgcV2/8\nVROtdbWJ+lQCV+C2x5GGQt1P+N2gwVCVO/tVV9IgxyvhcWC1+Ts6Gm5xZRn5oHdK\n7X73A6pCE21xcaXhSUbjiJqpbzggQqrEnVOtQWKCuQKBgQDi//ZR82j432K1/Ky0\n793sRIRGpXODVNYOf4uYrhkX32Lqdz8KWPWUrt+ZtYaTr49Yq1MEbntJKSFMBMk7\nATJvCPgzTo/UFhfykHKfeXQncoBPzcGpemPzTPi2GHms8MamDPQzNDumcKziBJeF\ng6gvdSVrmSwNj4qKyCHglj3t4wKBgQC90mOiKm9AB9OQLjmYBUSxTDVGayM+cSLx\nNInHdeHYLem0PrCLAVyPI36eAq/WffUsuAwXCEmptdSUkIrNHbRynLEEwYjlYXUM\nEkhyDkAUcl4gZjxU/rNV/VvT9ktYm3cH+mqgcD+rlQ4ynYyRqJY2sd1Llm8zLOL2\nFR2PXCJ6TQKBgQCJn2+CLdXFlQFunjtDE23zkXK0thh7VhLVBWTn8x1JiOiaiCNT\nLa3uL7tmoFRv828v7ebN+AGM0H/ca8ZonIgsIz7/NDEk/yQTrpmfr+3JALVkLLWt\n/4Lbfh4HoH0caXm2MIJZDODhPszB1tDaZICyDQ7b1iiMLCttinpnhA8VywKBgQCB\no+nF/ENEsNOt2dQd3iM/D3QnJs7IO46Iu8AJiJn5Acpl/pamKQTlAXHdSqp6zEWh\nCAXByTg9/uAzotAZLFtsF1XSkLcFKd09pFL0CoV7MWzVpd04k0c5yDJp/gERgAP4\nX+9oqaDid4ddzDoP1NraeflQQWqqwdI0DNHGcj9d1QKBgD6taLrGeq51wXdu1WOF\nYUbdU6zoMnNaaPSOPDhmRBfJskIR2vZGBOTS2rmB4QVWOeF2UaZ2lpFq+hDlh7SW\nERCPdg1DkJ7YL7xj35fmCil8ErdoZDBMz5bKtOqt1ywEO8kNyShIJZMp7FLwBRUg\nyNkJEMIDpk7m3pVsYTNg/CuA\n-----END PRIVATE KEY-----\n",
+  "client_email": "stravasheetsmrc@clajkemrc.iam.gserviceaccount.com",
+  "client_id": "117550154555253290676",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stravasheetsmrc%40clajkemrc.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
