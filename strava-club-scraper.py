@@ -53,19 +53,19 @@ config.read(
 #     f=StringIO(
 #         """
 #         [GENERAL]
-#         DATE_MIN = 2023-06-05
-#         DATE_MAX = 2023-07-30
-#         # ACTIVITIES_TYPE = Ride, E-Bike Ride, Mountain Bike Ride, E-Mountain Bike Ride, Indoor Cycling, Virtual Ride, Race, Run, Trail Run, Treadmill workout, Walk, Hike
-#         TIMEZONE = CET
+#         DATE_MIN = 2024-06-01
+#         DATE_MAX = 2024-07-30
+#         # ACTIVITIES_TYPE = Run, Trail Run, Treadmill workout, Walk, Hike
+#         TIMEZONE = UTC
 #
 #         [STRAVA]
-#         LOGIN = test@email.com
-#         PASSWORD = Password12345
-#         CLUB_IDS = 445017, 789955, 1045852
-#         # CLUB_MEMBERS_TEAMS = Team A: 1234, 5678; Team B: 12345
+#         LOGIN = jaycryp0@gmail.com
+#         PASSWORD = 7@3Lf*AVnzJ@fb
+#         CLUB_IDS = 1227185
+#         # CLUB_MEMBERS_TEAMS = 
 #
 #         [GOOGLE_DOCS]
-#         SHEET_ID = 12345
+#         SHEET_ID = 1gFG-sd37RaQT5dmlqsGKVVQzAJJaZAIVsaNajetyCdg
 #         """,
 #     ),
 # )
